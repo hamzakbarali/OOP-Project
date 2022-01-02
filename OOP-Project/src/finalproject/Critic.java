@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author madih
+ * @author Hamza Akbar
  */
 public class Critic extends User{
     private String Organization;
