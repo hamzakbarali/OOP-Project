@@ -7,7 +7,7 @@ package finalproject;
 import java.util.*;
 /**
  *
- * @author madih
+ * @author Hamza Akbar
  */
 public class User {
     private String userID;
