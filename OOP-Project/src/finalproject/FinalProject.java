@@ -7,7 +7,7 @@ package finalproject;
 
 /**
  *
- * @author madih
+ * @author Hamza Akbar
  */
 public class FinalProject {
 
