@@ -7,7 +7,7 @@ package finalproject;
 
 /**
  *
- * @author madih
+ * @author Hamza Akbar
  */
 public class Review extends Rating{
     private String text;
